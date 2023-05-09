@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 from pyspark import SparkContext
 import sys
 
